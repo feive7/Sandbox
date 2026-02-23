@@ -6,8 +6,8 @@ CONTROLS:
  Right click: erase
 Scroll Wheel: change color
            L: draw line at top of screen
-	   S: save to downloads folder
-	   C: clear screen
+	       S: save screenshot to executable directory
+	       C: clear screen
 
 TODO:
 ~~~~~~~~~
